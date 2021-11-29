@@ -1,0 +1,30 @@
+2021/11/05 16:23:11 Error: open path\to\config: The system cannot find the path specified.
+cannot open configuration file
+main.readConfigFile
+	C:/Users/ztang/source/repos/LinkedinLearning_Go/learning-go-2875237/GoEssentialsPractice/errorHandling.go:30
+main.main
+	C:/Users/ztang/source/repos/LinkedinLearning_Go/learning-go-2875237/GoEssentialsPractice/errorHandling.go:14
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:255
+runtime.goexit
+	C:/Program Files/Go/src/runtime/asm_amd64.s:1581
+2021/11/05 21:34:29 Error: open path\to\config: The system cannot find the path specified.
+cannot open configuration file
+main.readConfigFile
+	C:/Users/ztang/source/repos/LinkedinLearning_Go/learning-go-2875237/GoEssentialsPractice/errorHandling.go:34
+main.main
+	C:/Users/ztang/source/repos/LinkedinLearning_Go/learning-go-2875237/GoEssentialsPractice/errorHandling.go:14
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:255
+runtime.goexit
+	C:/Program Files/Go/src/runtime/asm_amd64.s:1581
+2021/11/05 21:35:09 Error: open path\to\config: The system cannot find the path specified.
+cannot open configuration file
+main.readConfigFile
+	C:/Users/ztang/source/repos/LinkedinLearning_Go/learning-go-2875237/GoEssentialsPractice/errorHandling.go:34
+main.main
+	C:/Users/ztang/source/repos/LinkedinLearning_Go/learning-go-2875237/GoEssentialsPractice/errorHandling.go:14
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:255
+runtime.goexit
+	C:/Program Files/Go/src/runtime/asm_amd64.s:1581
